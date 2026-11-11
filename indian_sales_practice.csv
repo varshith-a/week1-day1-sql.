@@ -1,0 +1,301 @@
+order_id,order_date,segment,region,state,city,category,product,unit_price,quantity,discount,sales,profit
+1001,2024-04-24,Consumer,East,West Bengal,Kolkata,Electronics,Power Bank,1500,3,0,4500,-198.83
+1002,2024-02-17,Small Business,East,West Bengal,Kolkata,Stationery,Pen Set,250,1,0,250,-3.14
+1003,2024-08-02,Small Business,South,Telangana,Hyderabad,Stationery,Notebook Pack,300,6,0.2,1440.0,-17.03
+1004,2024-05-22,Corporate,North,Delhi,New Delhi,Electronics,Power Bank,1500,4,0.05,5700.0,-215.51
+1005,2024-11-05,Consumer,South,Karnataka,Bengaluru,Furniture,Office Chair,6000,3,0.05,17100.0,99.32
+1006,2024-10-09,Small Business,East,West Bengal,Kolkata,Stationery,Notebook Pack,300,4,0,1200,20.73
+1007,2024-01-24,Corporate,South,Telangana,Hyderabad,Stationery,Notebook Pack,300,6,0,1800,296.11
+1008,2024-11-21,Consumer,South,Karnataka,Bengaluru,Electronics,Smartphone,18000,3,0.1,48600.0,11355.11
+1009,2024-11-07,Small Business,North,Delhi,New Delhi,Electronics,Power Bank,1500,3,0,4500,692.96
+1010,2024-11-23,Consumer,East,West Bengal,Kolkata,Electronics,Smartphone,18000,4,0.05,68400.0,11988.11
+1011,2024-07-24,Consumer,East,West Bengal,Kolkata,Electronics,Headphones,2500,1,0.05,2375.0,16.85
+1012,2024-11-25,Corporate,South,Telangana,Hyderabad,Electronics,Power Bank,1500,4,0.1,5400.0,451.12
+1013,2024-10-26,Small Business,West,Maharashtra,Mumbai,Stationery,Printer Paper,450,5,0.05,2137.5,152.56
+1014,2024-02-16,Consumer,South,Tamil Nadu,Coimbatore,Electronics,Headphones,2500,5,0.1,11250.0,2276.02
+1015,2024-07-16,Corporate,West,Maharashtra,Mumbai,Stationery,Pen Set,250,5,0,1250,65.81
+1016,2024-12-15,Corporate,South,Telangana,Hyderabad,Stationery,Notebook Pack,300,6,0,1800,457.05
+1017,2024-08-20,Small Business,East,West Bengal,Kolkata,Electronics,Smartphone,18000,4,0,72000,-7106.53
+1018,2024-11-16,Small Business,East,West Bengal,Kolkata,Stationery,Notebook Pack,300,5,0,1500,29.07
+1019,2024-09-28,Small Business,South,Telangana,Hyderabad,Electronics,Smartphone,18000,2,0.2,28800.0,7701.05
+1020,2024-05-02,Small Business,North,Delhi,New Delhi,Electronics,Headphones,2500,3,0.05,7125.0,-547.41
+1021,2024-03-05,Corporate,South,Karnataka,Bengaluru,Stationery,Pen Set,250,1,0.2,200.0,-9.73
+1022,2024-04-18,Small Business,South,Telangana,Hyderabad,Furniture,Bookshelf,4500,5,0.1,20250.0,5499.2
+1023,2024-08-12,Corporate,East,West Bengal,Kolkata,Stationery,Pen Set,250,4,0.05,950.0,246.85
+1024,2024-10-28,Small Business,South,Karnataka,Bengaluru,Electronics,Headphones,2500,3,0,7500,911.76
+1025,2024-04-27,Consumer,West,Maharashtra,Mumbai,Electronics,Power Bank,1500,6,0,9000,-657.36
+1026,2024-04-19,Small Business,North,Delhi,New Delhi,Stationery,Notebook Pack,300,3,0.1,810.0,93.71
+1027,2024-02-18,Corporate,South,Telangana,Hyderabad,Electronics,Smartphone,18000,4,0,72000,-4408.39
+1028,2024-12-10,Small Business,North,Delhi,New Delhi,Furniture,Study Table,8000,6,0,48000,7746.35
+1029,2024-05-07,Small Business,South,Karnataka,Bengaluru,Furniture,Bookshelf,4500,3,0,13500,-315.41
+1030,2024-05-07,Consumer,South,Tamil Nadu,Chennai,Furniture,Office Chair,6000,3,0.1,16200.0,4046.67
+1031,2024-02-17,Consumer,South,Tamil Nadu,Chennai,Electronics,Power Bank,1500,5,0,7500,2029.1
+1032,2024-01-31,Consumer,West,Maharashtra,Pune,Furniture,Study Table,8000,2,0.1,14400.0,-491.69
+1033,2024-12-04,Consumer,South,Tamil Nadu,Coimbatore,Furniture,Study Table,8000,4,0.2,25600.0,4796.5
+1034,2024-02-01,Consumer,West,Maharashtra,Pune,Electronics,Headphones,2500,5,0.2,10000.0,1991.9
+1035,2024-09-17,Consumer,South,Karnataka,Mysuru,Stationery,Printer Paper,450,2,0,900,-61.16
+1036,2024-10-18,Small Business,South,Karnataka,Bengaluru,Stationery,Notebook Pack,300,4,0,1200,-1.82
+1037,2024-09-24,Corporate,South,Karnataka,Bengaluru,Furniture,Bookshelf,4500,5,0.2,18000.0,477.86
+1038,2024-12-09,Corporate,West,Maharashtra,Pune,Electronics,Smartphone,18000,4,0,72000,11390.42
+1039,2024-02-21,Consumer,North,Delhi,New Delhi,Electronics,Smartphone,18000,5,0.2,72000.0,-5090.09
+1040,2024-07-08,Corporate,South,Telangana,Hyderabad,Electronics,Smartphone,18000,1,0,18000,251.91
+1041,2024-12-07,Corporate,South,Telangana,Hyderabad,Stationery,Printer Paper,450,5,0,2250,510.39
+1042,2024-10-10,Corporate,East,West Bengal,Kolkata,Electronics,Smartphone,18000,1,0,18000,-680.78
+1043,2024-09-15,Consumer,South,Telangana,Hyderabad,Stationery,Pen Set,250,2,0.05,475.0,45.32
+1044,2024-03-07,Corporate,South,Karnataka,Mysuru,Furniture,Office Chair,6000,1,0.05,5700.0,882.62
+1045,2024-01-05,Small Business,West,Maharashtra,Pune,Stationery,Printer Paper,450,4,0.2,1440.0,-79.56
+1046,2024-08-08,Corporate,West,Maharashtra,Mumbai,Furniture,Bookshelf,4500,5,0,22500,-1102.99
+1047,2024-12-07,Small Business,North,Delhi,New Delhi,Furniture,Office Chair,6000,6,0,36000,-2119.77
+1048,2024-01-13,Corporate,South,Tamil Nadu,Chennai,Electronics,Headphones,2500,2,0.1,4500.0,-127.15
+1049,2024-07-14,Corporate,South,Tamil Nadu,Chennai,Furniture,Office Chair,6000,6,0,36000,8959.2
+1050,2024-04-24,Consumer,West,Maharashtra,Mumbai,Furniture,Study Table,8000,3,0,24000,-2172.82
+1051,2024-11-24,Small Business,South,Tamil Nadu,Coimbatore,Furniture,Office Chair,6000,3,0.05,17100.0,1774.33
+1052,2024-10-24,Corporate,South,Telangana,Hyderabad,Electronics,Headphones,2500,3,0,7500,2137.6
+1053,2024-08-11,Small Business,South,Karnataka,Bengaluru,Stationery,Pen Set,250,3,0.05,712.5,101.52
+1054,2024-12-28,Small Business,South,Karnataka,Mysuru,Stationery,Notebook Pack,300,3,0,900,66.98
+1055,2024-11-15,Consumer,South,Telangana,Hyderabad,Furniture,Study Table,8000,1,0.05,7600.0,194.3
+1056,2024-06-16,Corporate,East,West Bengal,Kolkata,Stationery,Pen Set,250,6,0.1,1350.0,82.3
+1057,2024-12-12,Consumer,South,Telangana,Hyderabad,Electronics,Smartphone,18000,6,0.1,97200.0,19367.47
+1058,2024-05-26,Small Business,South,Telangana,Hyderabad,Furniture,Bookshelf,4500,1,0.05,4275.0,-68.09
+1059,2024-09-18,Small Business,South,Telangana,Hyderabad,Furniture,Study Table,8000,4,0,32000,2856.78
+1060,2024-06-20,Consumer,West,Maharashtra,Mumbai,Furniture,Bookshelf,4500,6,0.2,21600.0,-1353.13
+1061,2024-01-24,Corporate,East,West Bengal,Kolkata,Electronics,Headphones,2500,2,0,5000,-10.31
+1062,2024-04-09,Corporate,South,Telangana,Hyderabad,Furniture,Study Table,8000,6,0.2,38400.0,7193.79
+1063,2024-02-24,Consumer,South,Tamil Nadu,Coimbatore,Electronics,Headphones,2500,6,0,15000,3170.52
+1064,2024-08-21,Corporate,West,Maharashtra,Pune,Electronics,Power Bank,1500,2,0,3000,-139.99
+1065,2024-08-06,Small Business,East,West Bengal,Kolkata,Furniture,Bookshelf,4500,6,0.2,21600.0,5016.12
+1066,2024-05-06,Corporate,South,Tamil Nadu,Chennai,Stationery,Pen Set,250,4,0.05,950.0,224.15
+1067,2024-02-09,Consumer,South,Telangana,Hyderabad,Stationery,Notebook Pack,300,3,0.1,810.0,150.19
+1068,2024-03-18,Small Business,North,Delhi,New Delhi,Furniture,Bookshelf,4500,1,0,4500,-33.73
+1069,2024-10-04,Consumer,West,Maharashtra,Mumbai,Electronics,Smartphone,18000,4,0.05,68400.0,5907.69
+1070,2024-10-21,Consumer,West,Maharashtra,Pune,Furniture,Bookshelf,4500,6,0,27000,1408.12
+1071,2024-11-04,Corporate,North,Delhi,New Delhi,Furniture,Study Table,8000,5,0.2,32000.0,8291.99
+1072,2024-06-21,Corporate,West,Maharashtra,Pune,Furniture,Study Table,8000,1,0.1,7200.0,1206.36
+1073,2024-01-14,Small Business,East,West Bengal,Kolkata,Furniture,Office Chair,6000,5,0.2,24000.0,6306.52
+1074,2024-08-24,Corporate,South,Telangana,Hyderabad,Electronics,Power Bank,1500,4,0,6000,-163.85
+1075,2024-07-13,Corporate,South,Tamil Nadu,Coimbatore,Electronics,Smartphone,18000,3,0.05,51300.0,579.83
+1076,2024-01-27,Corporate,North,Delhi,New Delhi,Furniture,Office Chair,6000,6,0.2,28800.0,8638.94
+1077,2024-04-12,Small Business,West,Maharashtra,Mumbai,Stationery,Notebook Pack,300,1,0,300,70.71
+1078,2024-10-15,Corporate,West,Maharashtra,Mumbai,Electronics,Smartphone,18000,6,0,108000,30143.1
+1079,2024-02-28,Consumer,East,West Bengal,Kolkata,Furniture,Office Chair,6000,5,0.2,24000.0,5066.8
+1080,2024-12-12,Corporate,North,Delhi,New Delhi,Stationery,Notebook Pack,300,3,0.2,720.0,189.51
+1081,2024-02-22,Corporate,South,Tamil Nadu,Chennai,Electronics,Power Bank,1500,6,0,9000,1609.89
+1082,2024-08-07,Consumer,East,West Bengal,Kolkata,Stationery,Notebook Pack,300,3,0.2,720.0,118.52
+1083,2024-08-09,Small Business,South,Telangana,Hyderabad,Electronics,Smartphone,18000,4,0,72000,20470.68
+1084,2024-11-29,Small Business,South,Tamil Nadu,Chennai,Furniture,Office Chair,6000,6,0.2,28800.0,231.35
+1085,2024-06-14,Consumer,South,Tamil Nadu,Coimbatore,Furniture,Bookshelf,4500,5,0.05,21375.0,5144.65
+1086,2024-12-08,Consumer,North,Delhi,New Delhi,Electronics,Smartphone,18000,5,0.2,72000.0,3714.89
+1087,2024-05-12,Small Business,South,Tamil Nadu,Coimbatore,Electronics,Smartphone,18000,2,0.05,34200.0,1235.84
+1088,2024-02-13,Corporate,East,West Bengal,Kolkata,Stationery,Notebook Pack,300,5,0,1500,-5.19
+1089,2024-08-17,Consumer,South,Tamil Nadu,Chennai,Stationery,Pen Set,250,6,0.1,1350.0,293.18
+1090,2024-12-05,Corporate,North,Delhi,New Delhi,Furniture,Bookshelf,4500,2,0.05,8550.0,1133.92
+1091,2024-06-29,Corporate,South,Telangana,Hyderabad,Furniture,Bookshelf,4500,5,0.05,21375.0,3871.91
+1092,2024-06-10,Small Business,North,Delhi,New Delhi,Electronics,Headphones,2500,6,0,15000,-782.67
+1093,2024-05-21,Small Business,East,West Bengal,Kolkata,Electronics,Headphones,2500,6,0.1,13500.0,2562.76
+1094,2024-07-03,Consumer,South,Telangana,Hyderabad,Electronics,Headphones,2500,3,0,7500,-211.68
+1095,2024-05-29,Consumer,East,West Bengal,Kolkata,Furniture,Office Chair,6000,1,0.2,4800.0,859.04
+1096,2024-08-28,Corporate,East,West Bengal,Kolkata,Electronics,Headphones,2500,5,0.05,11875.0,1086.39
+1097,2024-07-24,Small Business,West,Maharashtra,Mumbai,Furniture,Study Table,8000,1,0,8000,773.59
+1098,2024-02-13,Consumer,East,West Bengal,Kolkata,Electronics,Headphones,2500,5,0.05,11875.0,3533.61
+1099,2024-09-24,Corporate,South,Telangana,Hyderabad,Stationery,Printer Paper,450,5,0,2250,117.34
+1100,2024-11-08,Consumer,North,Delhi,New Delhi,Furniture,Bookshelf,4500,5,0,22500,6390.98
+1101,2024-05-02,Consumer,West,Maharashtra,Mumbai,Furniture,Bookshelf,4500,1,0,4500,-137.14
+1102,2024-08-28,Consumer,West,Maharashtra,Mumbai,Furniture,Study Table,8000,6,0.2,38400.0,633.74
+1103,2024-05-15,Small Business,North,Delhi,New Delhi,Stationery,Pen Set,250,1,0,250,53.78
+1104,2024-11-27,Corporate,South,Telangana,Hyderabad,Furniture,Office Chair,6000,5,0,30000,-1212.13
+1105,2024-10-18,Corporate,West,Maharashtra,Mumbai,Electronics,Headphones,2500,3,0.2,6000.0,1610.86
+1106,2024-05-19,Corporate,South,Karnataka,Mysuru,Stationery,Pen Set,250,6,0.1,1350.0,135.25
+1107,2024-11-05,Consumer,South,Tamil Nadu,Chennai,Stationery,Notebook Pack,300,4,0.05,1140.0,0.17
+1108,2024-03-30,Small Business,West,Maharashtra,Mumbai,Stationery,Pen Set,250,5,0,1250,110.25
+1109,2024-02-16,Corporate,South,Tamil Nadu,Coimbatore,Electronics,Power Bank,1500,4,0.1,5400.0,475.22
+1110,2024-07-29,Corporate,North,Delhi,New Delhi,Stationery,Notebook Pack,300,2,0.05,570.0,101.16
+1111,2024-06-10,Consumer,East,West Bengal,Kolkata,Stationery,Notebook Pack,300,4,0,1200,1.15
+1112,2024-01-28,Corporate,South,Tamil Nadu,Chennai,Stationery,Printer Paper,450,4,0.1,1620.0,-40.45
+1113,2024-05-16,Corporate,South,Telangana,Hyderabad,Stationery,Pen Set,250,1,0,250,29.92
+1114,2024-05-02,Corporate,South,Tamil Nadu,Coimbatore,Electronics,Headphones,2500,6,0.2,12000.0,2206.96
+1115,2024-02-28,Consumer,South,Telangana,Hyderabad,Stationery,Pen Set,250,1,0,250,21.14
+1116,2024-12-27,Corporate,East,West Bengal,Kolkata,Furniture,Bookshelf,4500,3,0.2,10800.0,101.2
+1117,2024-04-07,Small Business,South,Tamil Nadu,Chennai,Furniture,Bookshelf,4500,2,0.1,8100.0,2176.85
+1118,2024-09-16,Consumer,East,West Bengal,Kolkata,Electronics,Smartphone,18000,4,0.05,68400.0,469.84
+1119,2024-03-17,Corporate,North,Delhi,New Delhi,Stationery,Printer Paper,450,6,0.1,2430.0,191.04
+1120,2024-06-13,Small Business,North,Delhi,New Delhi,Stationery,Printer Paper,450,4,0.1,1620.0,401.5
+1121,2024-08-30,Corporate,West,Maharashtra,Pune,Electronics,Smartphone,18000,1,0.05,17100.0,3113.76
+1122,2024-10-29,Consumer,South,Tamil Nadu,Chennai,Furniture,Office Chair,6000,2,0.2,9600.0,314.86
+1123,2024-07-28,Consumer,South,Tamil Nadu,Chennai,Stationery,Pen Set,250,1,0,250,62.09
+1124,2024-11-28,Corporate,South,Karnataka,Mysuru,Furniture,Study Table,8000,5,0.1,36000.0,-2443.46
+1125,2024-10-04,Consumer,East,West Bengal,Kolkata,Furniture,Bookshelf,4500,6,0.1,24300.0,-2081.06
+1126,2024-02-20,Small Business,West,Maharashtra,Pune,Electronics,Power Bank,1500,1,0.1,1350.0,275.6
+1127,2024-01-24,Consumer,South,Karnataka,Mysuru,Electronics,Power Bank,1500,3,0,4500,133.87
+1128,2024-09-28,Small Business,North,Delhi,New Delhi,Furniture,Study Table,8000,2,0,16000,1037.13
+1129,2024-11-13,Corporate,West,Maharashtra,Mumbai,Electronics,Headphones,2500,5,0.1,11250.0,1949.11
+1130,2024-08-23,Consumer,South,Telangana,Hyderabad,Electronics,Smartphone,18000,6,0.05,102600.0,218.61
+1131,2024-08-14,Small Business,South,Tamil Nadu,Coimbatore,Stationery,Printer Paper,450,2,0,900,250.28
+1132,2024-04-11,Corporate,North,Delhi,New Delhi,Stationery,Pen Set,250,4,0.05,950.0,284.76
+1133,2024-05-31,Corporate,South,Karnataka,Bengaluru,Furniture,Bookshelf,4500,3,0.2,10800.0,3208.43
+1134,2024-11-06,Corporate,South,Karnataka,Mysuru,Furniture,Office Chair,6000,5,0,30000,5942.07
+1135,2024-05-08,Small Business,West,Maharashtra,Pune,Electronics,Power Bank,1500,2,0.2,2400.0,410.65
+1136,2024-06-07,Consumer,East,West Bengal,Kolkata,Stationery,Notebook Pack,300,6,0,1800,387.8
+1137,2024-06-16,Consumer,South,Telangana,Hyderabad,Stationery,Notebook Pack,300,1,0.05,285.0,56.71
+1138,2024-05-19,Corporate,West,Maharashtra,Mumbai,Stationery,Pen Set,250,5,0.2,1000.0,232.19
+1139,2024-02-08,Consumer,South,Tamil Nadu,Coimbatore,Stationery,Pen Set,250,1,0.1,225.0,-9.83
+1140,2024-01-08,Consumer,East,West Bengal,Kolkata,Stationery,Pen Set,250,1,0.1,225.0,1.3
+1141,2024-10-26,Small Business,South,Tamil Nadu,Coimbatore,Stationery,Printer Paper,450,6,0.05,2565.0,134.43
+1142,2024-11-13,Small Business,North,Delhi,New Delhi,Stationery,Notebook Pack,300,4,0,1200,304.43
+1143,2024-12-24,Corporate,North,Delhi,New Delhi,Stationery,Notebook Pack,300,6,0.1,1620.0,33.82
+1144,2024-02-29,Small Business,South,Karnataka,Bengaluru,Electronics,Headphones,2500,3,0.1,6750.0,-412.58
+1145,2024-08-02,Small Business,West,Maharashtra,Pune,Furniture,Study Table,8000,6,0.2,38400.0,5181.55
+1146,2024-07-27,Corporate,West,Maharashtra,Pune,Stationery,Notebook Pack,300,4,0.2,960.0,264.6
+1147,2024-07-04,Small Business,South,Karnataka,Mysuru,Electronics,Smartphone,18000,4,0,72000,-4338.59
+1148,2024-03-03,Corporate,North,Delhi,New Delhi,Electronics,Smartphone,18000,3,0,54000,15098.63
+1149,2024-01-26,Consumer,South,Karnataka,Bengaluru,Stationery,Printer Paper,450,5,0,2250,483.12
+1150,2024-04-20,Consumer,West,Maharashtra,Mumbai,Electronics,Power Bank,1500,2,0.2,2400.0,540.53
+1151,2024-03-07,Consumer,North,Delhi,New Delhi,Stationery,Notebook Pack,300,3,0,900,104.48
+1152,2024-10-28,Consumer,South,Karnataka,Bengaluru,Electronics,Headphones,2500,3,0,7500,221.31
+1153,2024-02-28,Corporate,North,Delhi,New Delhi,Electronics,Power Bank,1500,4,0.2,4800.0,951.68
+1154,2024-09-14,Small Business,South,Tamil Nadu,Coimbatore,Stationery,Printer Paper,450,1,0.1,405.0,-4.61
+1155,2024-09-02,Corporate,South,Karnataka,Mysuru,Furniture,Bookshelf,4500,1,0,4500,1075.14
+1156,2024-02-11,Consumer,East,West Bengal,Kolkata,Furniture,Bookshelf,4500,4,0,18000,519.21
+1157,2024-10-07,Corporate,South,Karnataka,Bengaluru,Furniture,Bookshelf,4500,6,0.2,21600.0,3993.0
+1158,2024-02-20,Consumer,South,Telangana,Hyderabad,Furniture,Bookshelf,4500,5,0.1,20250.0,4399.08
+1159,2024-06-22,Corporate,East,West Bengal,Kolkata,Furniture,Study Table,8000,2,0.1,14400.0,3325.93
+1160,2024-07-10,Small Business,South,Tamil Nadu,Chennai,Furniture,Study Table,8000,3,0.05,22800.0,6416.76
+1161,2024-02-19,Corporate,South,Tamil Nadu,Chennai,Electronics,Headphones,2500,1,0.1,2250.0,445.13
+1162,2024-12-09,Corporate,West,Maharashtra,Mumbai,Stationery,Printer Paper,450,5,0.05,2137.5,-109.24
+1163,2024-06-08,Small Business,East,West Bengal,Kolkata,Stationery,Notebook Pack,300,3,0.2,720.0,29.27
+1164,2024-02-25,Small Business,South,Telangana,Hyderabad,Electronics,Power Bank,1500,4,0,6000,240.27
+1165,2024-10-14,Small Business,North,Delhi,New Delhi,Furniture,Bookshelf,4500,2,0.1,8100.0,2347.53
+1166,2024-01-15,Small Business,South,Telangana,Hyderabad,Stationery,Printer Paper,450,6,0.05,2565.0,-71.39
+1167,2024-10-16,Consumer,North,Delhi,New Delhi,Furniture,Office Chair,6000,2,0,12000,1955.25
+1168,2024-07-11,Corporate,West,Maharashtra,Mumbai,Electronics,Power Bank,1500,5,0,7500,509.5
+1169,2024-11-01,Consumer,West,Maharashtra,Pune,Furniture,Bookshelf,4500,3,0.2,10800.0,-712.99
+1170,2024-05-19,Corporate,West,Maharashtra,Mumbai,Stationery,Notebook Pack,300,6,0,1800,139.04
+1171,2024-02-28,Consumer,South,Tamil Nadu,Coimbatore,Furniture,Study Table,8000,2,0.2,12800.0,487.29
+1172,2024-04-22,Small Business,North,Delhi,New Delhi,Stationery,Printer Paper,450,3,0,1350,78.44
+1173,2024-05-10,Consumer,South,Karnataka,Bengaluru,Electronics,Smartphone,18000,2,0,36000,568.04
+1174,2024-07-13,Consumer,South,Karnataka,Mysuru,Stationery,Pen Set,250,2,0,500,56.52
+1175,2024-08-11,Consumer,South,Telangana,Hyderabad,Electronics,Smartphone,18000,6,0,108000,-9990.37
+1176,2024-05-28,Consumer,North,Delhi,New Delhi,Stationery,Pen Set,250,6,0.1,1350.0,-72.81
+1177,2024-02-15,Consumer,North,Delhi,New Delhi,Stationery,Pen Set,250,6,0.05,1425.0,106.43
+1178,2024-07-21,Small Business,West,Maharashtra,Pune,Stationery,Pen Set,250,5,0,1250,310.26
+1179,2024-11-20,Small Business,North,Delhi,New Delhi,Furniture,Office Chair,6000,1,0.2,4800.0,-261.07
+1180,2024-04-30,Corporate,West,Maharashtra,Pune,Furniture,Bookshelf,4500,6,0,27000,-1589.71
+1181,2024-03-31,Small Business,West,Maharashtra,Mumbai,Stationery,Notebook Pack,300,6,0,1800,504.93
+1182,2024-11-25,Small Business,South,Tamil Nadu,Coimbatore,Stationery,Printer Paper,450,4,0.2,1440.0,221.93
+1183,2024-08-14,Corporate,North,Delhi,New Delhi,Electronics,Smartphone,18000,1,0.1,16200.0,2471.38
+1184,2024-08-24,Consumer,South,Telangana,Hyderabad,Furniture,Bookshelf,4500,1,0.05,4275.0,345.27
+1185,2024-10-31,Corporate,North,Delhi,New Delhi,Electronics,Power Bank,1500,1,0.2,1200.0,123.39
+1186,2024-06-13,Small Business,South,Telangana,Hyderabad,Furniture,Bookshelf,4500,6,0,27000,3834.06
+1187,2024-09-15,Consumer,West,Maharashtra,Mumbai,Furniture,Office Chair,6000,3,0,18000,2852.12
+1188,2024-03-22,Corporate,West,Maharashtra,Pune,Furniture,Bookshelf,4500,5,0.2,18000.0,820.07
+1189,2024-11-19,Consumer,South,Tamil Nadu,Coimbatore,Furniture,Bookshelf,4500,5,0,22500,3575.75
+1190,2024-05-09,Small Business,North,Delhi,New Delhi,Stationery,Printer Paper,450,4,0.05,1710.0,324.03
+1191,2024-06-28,Small Business,South,Telangana,Hyderabad,Furniture,Office Chair,6000,5,0,30000,722.78
+1192,2024-06-07,Small Business,East,West Bengal,Kolkata,Electronics,Power Bank,1500,6,0,9000,1112.12
+1193,2024-02-17,Corporate,North,Delhi,New Delhi,Stationery,Printer Paper,450,6,0.2,2160.0,342.17
+1194,2024-04-19,Corporate,South,Telangana,Hyderabad,Electronics,Smartphone,18000,3,0,54000,1981.42
+1195,2024-02-21,Small Business,West,Maharashtra,Mumbai,Electronics,Headphones,2500,1,0.05,2375.0,244.81
+1196,2024-11-01,Consumer,East,West Bengal,Kolkata,Stationery,Pen Set,250,5,0,1250,63.36
+1197,2024-07-05,Consumer,West,Maharashtra,Mumbai,Stationery,Pen Set,250,1,0.1,225.0,38.37
+1198,2024-05-02,Corporate,South,Tamil Nadu,Coimbatore,Stationery,Pen Set,250,2,0.2,400.0,9.51
+1199,2024-05-24,Small Business,West,Maharashtra,Pune,Stationery,Printer Paper,450,4,0.1,1620.0,342.22
+1200,2024-05-08,Corporate,South,Telangana,Hyderabad,Electronics,Headphones,2500,5,0,12500,-989.1
+1201,2024-02-12,Corporate,North,Delhi,New Delhi,Stationery,Printer Paper,450,1,0.05,427.5,87.74
+1202,2024-06-27,Corporate,South,Tamil Nadu,Chennai,Furniture,Office Chair,6000,2,0.1,10800.0,2939.64
+1203,2024-02-11,Consumer,South,Karnataka,Mysuru,Stationery,Pen Set,250,2,0.1,450.0,22.48
+1204,2024-03-11,Corporate,North,Delhi,New Delhi,Stationery,Printer Paper,450,3,0,1350,-114.32
+1205,2024-01-03,Consumer,East,West Bengal,Kolkata,Stationery,Pen Set,250,4,0.2,800.0,209.87
+1206,2024-09-27,Corporate,North,Delhi,New Delhi,Electronics,Power Bank,1500,6,0.2,7200.0,498.97
+1207,2024-11-23,Corporate,West,Maharashtra,Pune,Electronics,Headphones,2500,2,0.1,4500.0,979.02
+1208,2024-11-19,Consumer,South,Karnataka,Bengaluru,Furniture,Bookshelf,4500,5,0,22500,2388.38
+1209,2024-06-29,Corporate,East,West Bengal,Kolkata,Furniture,Study Table,8000,1,0.2,6400.0,-24.16
+1210,2024-10-05,Small Business,West,Maharashtra,Mumbai,Stationery,Pen Set,250,1,0.2,200.0,20.59
+1211,2024-07-10,Consumer,South,Telangana,Hyderabad,Furniture,Study Table,8000,1,0.1,7200.0,10.51
+1212,2024-10-24,Corporate,North,Delhi,New Delhi,Furniture,Office Chair,6000,6,0,36000,6986.69
+1213,2024-12-16,Small Business,West,Maharashtra,Mumbai,Furniture,Bookshelf,4500,3,0,13500,1158.96
+1214,2024-01-19,Consumer,South,Tamil Nadu,Chennai,Electronics,Headphones,2500,6,0.1,13500.0,234.59
+1215,2024-10-05,Consumer,West,Maharashtra,Mumbai,Furniture,Study Table,8000,5,0.1,36000.0,3216.96
+1216,2024-05-19,Corporate,East,West Bengal,Kolkata,Furniture,Study Table,8000,1,0.05,7600.0,-381.6
+1217,2024-04-05,Corporate,South,Tamil Nadu,Coimbatore,Stationery,Pen Set,250,4,0.05,950.0,93.56
+1218,2024-08-08,Consumer,North,Delhi,New Delhi,Electronics,Power Bank,1500,4,0,6000,845.89
+1219,2024-12-04,Corporate,South,Telangana,Hyderabad,Furniture,Office Chair,6000,1,0.05,5700.0,104.06
+1220,2024-08-16,Corporate,South,Telangana,Hyderabad,Electronics,Power Bank,1500,4,0.05,5700.0,-473.43
+1221,2024-12-09,Corporate,South,Telangana,Hyderabad,Furniture,Bookshelf,4500,1,0,4500,697.52
+1222,2024-01-18,Consumer,South,Telangana,Hyderabad,Electronics,Headphones,2500,5,0.1,11250.0,-556.96
+1223,2024-11-05,Corporate,East,West Bengal,Kolkata,Furniture,Study Table,8000,5,0,40000,-1544.99
+1224,2024-09-28,Corporate,North,Delhi,New Delhi,Furniture,Office Chair,6000,5,0,30000,1403.4
+1225,2024-09-12,Small Business,East,West Bengal,Kolkata,Electronics,Headphones,2500,1,0,2500,267.75
+1226,2024-11-09,Corporate,South,Karnataka,Mysuru,Furniture,Bookshelf,4500,4,0,18000,256.15
+1227,2024-08-15,Small Business,West,Maharashtra,Mumbai,Electronics,Headphones,2500,4,0,10000,2989.05
+1228,2024-05-28,Consumer,North,Delhi,New Delhi,Stationery,Notebook Pack,300,5,0.2,1200.0,307.84
+1229,2024-04-12,Consumer,East,West Bengal,Kolkata,Furniture,Bookshelf,4500,2,0,9000,1951.44
+1230,2024-08-27,Small Business,South,Tamil Nadu,Chennai,Furniture,Bookshelf,4500,5,0.05,21375.0,4733.81
+1231,2024-09-26,Corporate,West,Maharashtra,Mumbai,Electronics,Smartphone,18000,4,0.1,64800.0,4167.81
+1232,2024-08-18,Small Business,South,Telangana,Hyderabad,Electronics,Smartphone,18000,6,0,108000,9323.99
+1233,2024-03-07,Consumer,North,Delhi,New Delhi,Stationery,Printer Paper,450,5,0,2250,164.36
+1234,2024-12-29,Small Business,South,Karnataka,Bengaluru,Furniture,Office Chair,6000,2,0.05,11400.0,-111.86
+1235,2024-05-20,Corporate,North,Delhi,New Delhi,Furniture,Office Chair,6000,6,0.2,28800.0,-1438.04
+1236,2024-10-24,Small Business,South,Telangana,Hyderabad,Stationery,Printer Paper,450,2,0.2,720.0,-27.59
+1237,2024-01-24,Small Business,South,Telangana,Hyderabad,Stationery,Notebook Pack,300,1,0,300,83.83
+1238,2024-09-11,Small Business,North,Delhi,New Delhi,Stationery,Pen Set,250,5,0,1250,319.5
+1239,2024-06-01,Small Business,North,Delhi,New Delhi,Furniture,Office Chair,6000,6,0.1,32400.0,2637.93
+1240,2024-04-14,Consumer,South,Karnataka,Bengaluru,Furniture,Study Table,8000,4,0.1,28800.0,1039.02
+1241,2024-07-08,Consumer,North,Delhi,New Delhi,Stationery,Pen Set,250,4,0,1000,105.99
+1242,2024-05-06,Consumer,North,Delhi,New Delhi,Furniture,Office Chair,6000,3,0.1,16200.0,-707.11
+1243,2024-06-16,Small Business,North,Delhi,New Delhi,Stationery,Pen Set,250,2,0,500,136.75
+1244,2024-09-12,Corporate,North,Delhi,New Delhi,Electronics,Smartphone,18000,5,0.1,81000.0,20382.05
+1245,2024-04-20,Consumer,South,Karnataka,Bengaluru,Furniture,Bookshelf,4500,4,0,18000,2400.08
+1246,2024-05-26,Consumer,South,Karnataka,Mysuru,Furniture,Bookshelf,4500,6,0.1,24300.0,2786.63
+1247,2024-07-06,Consumer,South,Tamil Nadu,Chennai,Furniture,Bookshelf,4500,3,0.1,12150.0,-995.12
+1248,2024-07-16,Small Business,South,Telangana,Hyderabad,Furniture,Bookshelf,4500,3,0,13500,1372.98
+1249,2024-06-22,Corporate,North,Delhi,New Delhi,Electronics,Headphones,2500,4,0.05,9500.0,1169.76
+1250,2024-01-21,Consumer,West,Maharashtra,Mumbai,Stationery,Printer Paper,450,4,0.2,1440.0,-117.91
+1251,2024-11-06,Consumer,East,West Bengal,Kolkata,Furniture,Bookshelf,4500,4,0,18000,4630.55
+1252,2024-10-30,Small Business,North,Delhi,New Delhi,Electronics,Smartphone,18000,5,0.05,85500.0,2953.97
+1253,2024-01-09,Small Business,South,Telangana,Hyderabad,Stationery,Printer Paper,450,3,0.1,1215.0,57.52
+1254,2024-11-01,Small Business,South,Karnataka,Mysuru,Stationery,Pen Set,250,6,0,1500,134.75
+1255,2024-03-28,Small Business,South,Telangana,Hyderabad,Stationery,Notebook Pack,300,5,0.1,1350.0,148.09
+1256,2024-10-20,Consumer,South,Telangana,Hyderabad,Electronics,Power Bank,1500,2,0,3000,837.85
+1257,2024-07-30,Corporate,West,Maharashtra,Mumbai,Furniture,Study Table,8000,4,0,32000,5638.4
+1258,2024-09-22,Corporate,South,Telangana,Hyderabad,Stationery,Printer Paper,450,1,0,450,-7.68
+1259,2024-08-23,Corporate,East,West Bengal,Kolkata,Stationery,Pen Set,250,3,0,750,198.64
+1260,2024-11-08,Consumer,South,Telangana,Hyderabad,Stationery,Printer Paper,450,6,0.05,2565.0,240.27
+1261,2024-12-19,Corporate,North,Delhi,New Delhi,Electronics,Smartphone,18000,3,0,54000,9827.75
+1262,2024-03-03,Small Business,South,Tamil Nadu,Coimbatore,Stationery,Printer Paper,450,3,0.05,1282.5,165.94
+1263,2024-05-27,Consumer,South,Tamil Nadu,Coimbatore,Furniture,Office Chair,6000,3,0,18000,5078.26
+1264,2024-04-19,Small Business,North,Delhi,New Delhi,Stationery,Pen Set,250,6,0.1,1350.0,-25.88
+1265,2024-05-02,Small Business,North,Delhi,New Delhi,Electronics,Headphones,2500,5,0.2,10000.0,-30.17
+1266,2024-07-30,Corporate,South,Telangana,Hyderabad,Stationery,Notebook Pack,300,1,0,300,9.64
+1267,2024-11-30,Corporate,South,Karnataka,Bengaluru,Electronics,Power Bank,1500,2,0.1,2700.0,739.83
+1268,2024-02-15,Consumer,South,Tamil Nadu,Chennai,Furniture,Study Table,8000,3,0,24000,3862.07
+1269,2024-07-22,Consumer,South,Telangana,Hyderabad,Electronics,Smartphone,18000,2,0,36000,7746.63
+1270,2024-11-04,Corporate,East,West Bengal,Kolkata,Electronics,Headphones,2500,3,0.2,6000.0,-342.48
+1271,2024-03-09,Corporate,North,Delhi,New Delhi,Stationery,Printer Paper,450,5,0.1,2025.0,486.86
+1272,2024-11-27,Consumer,North,Delhi,New Delhi,Electronics,Smartphone,18000,2,0.1,32400.0,94.15
+1273,2024-03-30,Small Business,South,Karnataka,Mysuru,Furniture,Bookshelf,4500,6,0,27000,3898.31
+1274,2024-12-08,Consumer,South,Tamil Nadu,Coimbatore,Stationery,Pen Set,250,1,0.1,225.0,-13.92
+1275,2024-04-30,Corporate,South,Tamil Nadu,Coimbatore,Electronics,Headphones,2500,3,0.1,6750.0,531.19
+1276,2024-05-13,Small Business,North,Delhi,New Delhi,Stationery,Printer Paper,450,5,0,2250,363.32
+1277,2024-03-22,Small Business,West,Maharashtra,Mumbai,Stationery,Notebook Pack,300,4,0.05,1140.0,70.87
+1278,2024-07-07,Consumer,East,West Bengal,Kolkata,Stationery,Notebook Pack,300,6,0.05,1710.0,249.4
+1279,2024-07-10,Small Business,West,Maharashtra,Pune,Electronics,Smartphone,18000,6,0.2,86400.0,5731.62
+1280,2024-09-26,Small Business,South,Tamil Nadu,Chennai,Electronics,Power Bank,1500,5,0,7500,590.24
+1281,2024-09-15,Small Business,North,Delhi,New Delhi,Stationery,Notebook Pack,300,1,0.2,240.0,-4.59
+1282,2024-12-14,Small Business,West,Maharashtra,Mumbai,Furniture,Bookshelf,4500,4,0,18000,-321.11
+1283,2024-03-08,Corporate,South,Tamil Nadu,Chennai,Stationery,Pen Set,250,1,0.1,225.0,23.69
+1284,2024-01-12,Consumer,South,Telangana,Hyderabad,Stationery,Pen Set,250,6,0.05,1425.0,83.19
+1285,2024-06-25,Small Business,East,West Bengal,Kolkata,Stationery,Notebook Pack,300,1,0.1,270.0,48.64
+1286,2024-04-02,Small Business,South,Karnataka,Bengaluru,Furniture,Office Chair,6000,3,0.1,16200.0,3362.94
+1287,2024-07-11,Small Business,East,West Bengal,Kolkata,Furniture,Study Table,8000,4,0.1,28800.0,-1955.52
+1288,2024-10-02,Consumer,South,Telangana,Hyderabad,Stationery,Pen Set,250,1,0,250,14.31
+1289,2024-12-10,Corporate,East,West Bengal,Kolkata,Electronics,Headphones,2500,3,0.1,6750.0,1266.55
+1290,2024-03-20,Small Business,South,Telangana,Hyderabad,Electronics,Headphones,2500,4,0.05,9500.0,97.47
+1291,2024-05-03,Consumer,South,Karnataka,Bengaluru,Stationery,Pen Set,250,5,0,1250,-21.96
+1292,2024-05-05,Corporate,South,Telangana,Hyderabad,Furniture,Bookshelf,4500,6,0,27000,5297.84
+1293,2024-09-14,Consumer,South,Tamil Nadu,Chennai,Stationery,Notebook Pack,300,1,0,300,89.22
+1294,2024-05-01,Consumer,East,West Bengal,Kolkata,Stationery,Printer Paper,450,6,0.05,2565.0,53.11
+1295,2024-10-12,Small Business,East,West Bengal,Kolkata,Furniture,Study Table,8000,3,0,24000,6705.79
+1296,2024-11-25,Small Business,West,Maharashtra,Pune,Stationery,Pen Set,250,1,0.05,237.5,40.03
+1297,2024-04-04,Corporate,North,Delhi,New Delhi,Furniture,Office Chair,6000,3,0.1,16200.0,3268.62
+1298,2024-01-30,Corporate,West,Maharashtra,Mumbai,Furniture,Bookshelf,4500,2,0.1,8100.0,1012.13
+1299,2024-06-18,Corporate,South,Telangana,Hyderabad,Furniture,Office Chair,6000,3,0,18000,2856.28
+1300,2024-05-17,Small Business,North,Delhi,New Delhi,Stationery,Printer Paper,450,2,0,900,45.78
