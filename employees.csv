@@ -1,0 +1,9 @@
+emp_id,emp_name,role,manager_id
+1,Meera Nair,Regional Head,
+2,Anita Rao,City Manager,1
+3,Rohan Mehta,City Manager,1
+4,Karthik S,Sales Executive,2
+5,Pooja Reddy,Sales Executive,2
+6,Aman Verma,Sales Executive,3
+7,Sana Shaikh,Sales Executive,3
+8,Vikram Joshi,Trainee,4
